@@ -50,7 +50,7 @@ namespace EjercicioAbstraccion
         {
             Console.WriteLine($"El  numero mayor es:  {NumeroMayor()}");
             Console.WriteLine($"El  numero menor es:  {NumeroMenor()}");
-            Console.WriteLine($"La raiz cuadrada del primer numero es:  {RaizCuadrada()}");
+            Console.WriteLine($"La raiz cuadrada del primer numero es:  {RaizCuadrada()}"); // O usar directamente math.sqrt(numero1), o (numero2)
             Console.WriteLine($"La raiz cuadrada del segundo numero es:  {RaizCuadrada2()}");
             Console.WriteLine($"El valor absoluto del primer numero es:  {ValorAbsoluto()}");
             Console.WriteLine($"El valor absoluto del segundo numero es:  {ValorAbsoluto2()}");
